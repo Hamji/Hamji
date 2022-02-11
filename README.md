@@ -14,8 +14,9 @@
 - 🌱 I’m currently learning
 ```
 
+  react
   GO (gin)
-  Networt
+  Network
   
 ```
 
