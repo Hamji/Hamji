@@ -7,14 +7,15 @@
 - 📫 This is my blog. 
 
 ```
-  아직공사중
+  https://hamji.github.io/
 ```
 
 
 - 🌱 I’m currently learning
 ```
 
-  React.js
+  GO (gin)
+  Networt
   
 ```
 
