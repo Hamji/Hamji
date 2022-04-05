@@ -7,7 +7,7 @@
 - 📫 This is my blog. 
 
 ```
-  https://hamji.github.io/
+  https://velog.io/@kgh396
 ```
 
 
