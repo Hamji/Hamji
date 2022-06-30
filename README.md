@@ -14,9 +14,9 @@
 - 🌱 I’m currently learning
 ```
 
-  react
   GO (gin)
   Network
+  C++
   
 ```
 
