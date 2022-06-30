@@ -14,10 +14,11 @@
 - 🌱 I’m currently learning
 ```
 
-  GO (gin)
-  Network
+  GO
   C++
-  
+  Network
+  3GPP 5G Standard 
+
 ```
 
 ![Hamji's github stats](https://github-readme-stats.vercel.app/api?username=Hamji&show_icons=true)
