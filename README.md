@@ -7,7 +7,7 @@
 - 📫 This is my blog. 
 
 ```
-  https://velog.io/@kgh396
+  페이지 작성중..
 ```
 
 
@@ -17,7 +17,7 @@
   GO
   C++
   Network
-  3GPP 5G Standard 
+  
 
 ```
 
